@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AreaTriangleDemo {
+ class AreaTriangleDemo {
 
 	public static void main(String[] args) {
 		 Scanner scanner = new Scanner(System.in);
